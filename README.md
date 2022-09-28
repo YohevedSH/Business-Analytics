@@ -1,2 +1,3 @@
-# Business-Analytics
-You have: Server logs with data on Yandex.Afisha visits from June 2017 through May 2018 Dump file with all orders for the period Marketing expenses statistics You are going to study: How people use the product When they start to buy How much money each customer brings When they pay off
+# Making business desicions based on Data
+You are an analyst at a big online store. Together with the marketing department, you've compiled a list of hypotheses that may help boost revenue.
+You need to prioritize these hypotheses, launch an A/B test, and analyze the results.
